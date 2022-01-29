@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "email": "johannes@mail.com",
+    "password": "password",
+    "role": "admin",
+    "phoneNumber": "08998676093",
+    "address": "Jl. Jakarta Raya no. 20"
+  },
+  {
+    "id": 2,
+    "email": "wijaya@mail.com",
+    "password": "password",
+    "role": "admin",
+    "phoneNumber": "08557628291",
+    "address": "Jl. Indonesia Raya no. 20"
+  },
+  {
+    "id": 3,
+    "email": "kusuma@mail.com",
+    "password": "password",
+    "role": "admin",
+    "phoneNumber": "087899768821",
+    "address": "Jl. Bandung Raya no. 20"
+  }
+]

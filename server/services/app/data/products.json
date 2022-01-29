@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Mantel Saku Half Slit",
+    "slug": "mantel-saku-half-slit",
+    "description": "Mantel Wanita dengan slit di bagian samping untuk kenyamanan dalam bergerak. Desain saku (pocketable) yang mudah disimpan di tas Anda.",
+    "price": 899000,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/445136/item/idgoods_67_445136.jpg?width=1600&impolicy=quality_75",
+    "categoryId": 1,
+    "userMongoId": "61e5217e2a4dbc3d7e768296"
+  },
+  {
+    "id": 2,
+    "name": "Blus Rayon Lengan Pendek",
+    "slug": "blus-rayon-lengan-pendek",
+    "description": "Blus yang halus dan lembut dengan siluet elegan. Dengan perawatan yang mudah setelah dicuci.",
+    "price": 299000,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/446846/item/idgoods_04_446846.jpg?width=1600&impolicy=quality_75",
+    "categoryId": 2,
+    "userMongoId": "61e5217e2a4dbc3d7e768296"
+  },
+  {
+    "id": 3,
+    "name": "Cardigan Supima Cotton UV Protection",
+    "slug": "cardigan-supima-cotton-uv-protection",
+    "description": "Cardigan crop wanita, praktis dikenakan sebagai luaran. Dengan UPF25.",
+    "price": 199000,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/441011/item/idgoods_16_441011.jpg?width=1600&impolicy=quality_75",
+    "categoryId": 1,
+    "userMongoId": "61e5217e2a4dbc3d7e768296"
+  }
+]
