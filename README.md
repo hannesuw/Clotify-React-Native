@@ -1,4 +1,4 @@
-# P3-Challenge-2
+# Clotify React Native App
 
 UI Library: Native base
 
